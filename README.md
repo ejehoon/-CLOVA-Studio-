@@ -59,4 +59,3 @@ NAVER CLOUD의 CLOVA Studio 팀에서 인턴으로 속하며 진행했던 과제
 - 데이터 증가에 따른 효과 분석
 - System Prompt 영향도 평가
 - 각 API의 장단점 및 적합한 사용 사례 도출
-# -CLOVA-Studio-
