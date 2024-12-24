@@ -2,7 +2,9 @@
 
 Status: 시작 전
 
-![스크린샷](NAVER_CLOUD-CLOVA_Studio/LLMOps_efficiency/screenshot_2024-06-28.png)
+![스크린샷](LLMOps 효율화 (Caching, Prompt Compression Optimization, Model Cascading Routing, etc.)/스크린샷_2024-06-28_오전_2.11.37.png)
+
+
 
 
 <aside>
