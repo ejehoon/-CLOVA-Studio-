@@ -19,7 +19,7 @@ Status: 시작 전
 
 테스트 진행 결과 기존 System_Prompt 지시사항이 제외된 결과와 크게 다르지 않았습니다.
 
-결과적으로, 동일한 작업을 진행했을 때 **Chat-Completion API와 Search API 차이가 매우 큰다는 결론을 얻었습니다.**
+결과적으로, 동일한 작업을 진행했을 때 **Chat-Completion API와 Search API 차이가 매우 크다는 결론을 얻었습니다.**
 
 </aside>
 
