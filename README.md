@@ -12,7 +12,6 @@ CLOVA Studio는 NAVER CLOUD의 LLM(Large Language Model) 관련 연구 및 플�
 
 NAVER CLOUD의 CLOVA Studio 팀에서 인턴으로 속하며 진행했던 과제입니다. LLM(Large Language Model) 관련 다양한 연구와 실험을 진행했습니다.
 
----
 
 ## 주요 연구 내용 및 결과
 
