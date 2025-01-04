@@ -14,7 +14,6 @@ NAVER CLOUD의 CLOVA Studio 팀에서 인턴으로 속하며 진행했던 과제
 <br>
 
 ## 주요 연구 내용 및 결과
-<br>
 
 ### [1. 국가 분류 튜닝 task](국가%20분류%20튜닝%20task%20eb33317d27ca413ea7f8929091bdafe8.md)
 
