@@ -77,11 +77,10 @@ NAVER CLOUD의 CLOVA Studio 팀에서 인턴으로 속하며 진행했던 과제
 <img src="https://github.com/ejehoon/NAVER_CLOUD-CLOVA_Studio/blob/main/LLMOps%20%ED%9A%A8%EC%9C%A8%ED%99%94%20(Caching%2C%20Prompt%20Compression%3AOptimization%2C%20Model%20Cascading%3ARouting%2C%20etc.)/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-06-28_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%258C%25E1%2585%25A5%25E1%2586%25AB_2.11.37.png" alt="LLMOps 효율화" width="50%" style="border: 2px solid black;">
 
 **참여 인원: 2명**
-- Caching, Prompt Compression/Optimization, Model Cascading/Routing 연구
+- Caching, Prompt Compression/Optimization, Model Cascading/Routing 리서치
 - Context Length 한도, 비용, Latency, 성능 등 다양한 요소 고려
 - 사용자와 공급자 관점에서의 효율화 방안 분석
 - Input/Output 가공을 통한 비용 및 Latency 최적화 방안 도출
-- Context caching, Semantic caching 등 다양한 최적화 기법 연구
 
 ## [7. Search API & Chat-Completion API 비교](Search%20API%20%26%20Chat-Completion%20API%20차이%20비교%200b7b689e945145fc834c58c2771b62b2.md)
 
